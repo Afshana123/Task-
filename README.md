@@ -24,4 +24,3 @@ Create program that calculates the year of birth.
 - program defines the variable age and name
 - program prints the string "OMG <person>, you are <age> years old so you were born in <year>"
 
-Testing Testing 
